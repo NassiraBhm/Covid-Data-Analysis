@@ -1,0 +1,1 @@
+This project aims to conduct a comprehensive statistical analysis of COVID-19 data, focusing on the impact of age and gender on disease mortality. By employing hypothesis testing techniques, we examine whether significant disparities exist between different demographic groups.
